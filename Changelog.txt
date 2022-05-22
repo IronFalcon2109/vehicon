@@ -1,0 +1,4 @@
+Vehicon Version 1.0:
+- Initial Release
+- No Parked Cars yet, however, the framework for them exists.
+- Game is Hard.
